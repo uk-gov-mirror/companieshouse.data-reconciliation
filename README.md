@@ -195,7 +195,7 @@ group toggles have been enabled an error message will be logged i.e.*
 
 1. Enable the `data-reconciliation` module
 
-1. Run `tilt up` and wait for all services to start
+1. Run `chs-dev up` and wait for all services to start
 
 ### To make local changes
 
